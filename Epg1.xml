@@ -16,7 +16,7 @@
 		<display-name>Nickelodeon</display-name>
 		<icon src="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" width="360" height="270" />
 	</channel>
-	<programme start="20220103070200 +0000" stop="20211227090200 +0000" channel="alf">
+	<programme start="20220103070200 +0000" stop="20220104090200 +0000" channel="alf">
 		<title lang="en">Freddy vs. Jason</title>
 		<desc lang="en">Two horror icons face off in this supernatural movie. Disfigured serial killer Freddy Krueger (Robert Englund), who attacks his victims in their dreams, has lost much of his power since citizens of his town have become less afraid of him. Enlisting the help of fellow violent murderer Jason Voorhees (Ken Kirzinger), Freddy orchestrates a new killing spree. However, when the hockey-mask-wearing psychopath won't stop chopping up Freddy's intended victims, the two ghouls start to battle each other.</desc>
 		<credits>
