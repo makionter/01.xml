@@ -3,12 +3,105 @@
 
 <tv source-info-name="Schedules Direct" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
 	<channel id="alf">
-		<display-name>alf</display-name>
-		<icon src="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" width="360" height="270" />
-	
-	<channel id="I160.60964.schedulesdirect.org">
 		<display-name>MTVHD</display-name>
 		<display-name>160 MTVHD</display-name>
 		<display-name>160</display-name>
 		<display-name>MTV - Music Television HD</display-name>
 		<icon src="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60964_dark_360w_270h.png" width="360" height="270" />
+	</channel>
+	<channel id="I170.11006.schedulesdirect.org">
+		<display-name>NIK</display-name>
+		<display-name>170 NIK</display-name>
+		<display-name>170</display-name>
+		<display-name>Nickelodeon</display-name>
+		<icon src="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" width="360" height="270" />
+	</channel>
+	<programme start="20220103070200 +0000" stop="20211227090200 +0000" channel="alf">
+		<title lang="en">Freddy vs. Jason</title>
+		<desc lang="en">Two horror icons face off in this supernatural movie. Disfigured serial killer Freddy Krueger (Robert Englund), who attacks his victims in their dreams, has lost much of his power since citizens of his town have become less afraid of him. Enlisting the help of fellow violent murderer Jason Voorhees (Ken Kirzinger), Freddy orchestrates a new killing spree. However, when the hockey-mask-wearing psychopath won't stop chopping up Freddy's intended victims, the two ghouls start to battle each other.</desc>
+		<credits>
+			<director>Ronny Yu</director>
+			<actor>Robert Englund</actor>
+			<actor>Ken Kirzinger</actor>
+			<actor>Monica Keena</actor>
+			<actor>Jason Ritter</actor>
+			<actor>Kelly Rowland</actor>
+			<actor>Katharine Isabelle</actor>
+			<actor>Brendan Fletcher</actor>
+			<actor>Tom Butler</actor>
+			<actor>Lochlyn Munro</actor>
+			<actor>Kyle Labine</actor>
+			<actor>Chris Marquette</actor>
+			<actor>Damian Shannon</actor>
+			<actor>Mark Swift</actor>
+			<actor>Fred Murphy</actor>
+			<actor>John Willett</actor>
+			<actor>Gregory Mah</actor>
+			<actor>Graeme Revell</actor>
+			<producer>Sean S. Cunningham</producer>
+			<producer>Douglas Curtis</producer>
+		</credits>
+		<date>2003</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Horror</category>
+		<length units="seconds">5820</length>
+		<episode-num system="dd_progid">MV00136654.0000</episode-num>
+		<subtitles type="teletext" />
+		<rating system="Alberta&apos;s Film Classification Board">
+			<value>18A</value>
+		</rating>
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="B.C. Film Classification Office">
+			<value>18A</value>
+		</rating>
+		<rating system="British Board of Film Classification">
+			<value>18</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>18</value>
+		</rating>
+		<rating system="Dirección General de Radio, Televisión y Cinematografía">
+			<value>C</value>
+		</rating>
+		<rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+			<value>18</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K18</value>
+		</rating>
+		<rating system="Medietilsynet">
+			<value>15 år</value>
+		</rating>
+		<rating system="Motion Picture Association">
+			<value>R</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+		<rating system="Saskatchewan Film and Video Classification Board">
+			<value>18A</value>
+		</rating>
+		<rating system="UK Content Provider">
+			<value>18</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Language</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Situations</value>
+		</rating>
+		<rating system="advisory">
+			<value>Graphic Violence</value>
+		</rating>
+		<rating system="advisory">
+			<value>Nudity</value>
+		</rating>
+		<star-rating>
+			<value>2/4</value>
+		</star-rating>
+	</programme>
